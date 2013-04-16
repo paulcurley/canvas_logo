@@ -1,0 +1,229 @@
+{
+"letterP" : {
+	"start" : [154.11, 307.37],
+	"options" : [
+		["fillStyle" , "#000"],
+		["strokeStyle" , "#fff"],
+		["lineWidth" , "0"],
+		["lineCap" , "butt"],
+		["lineJoin" , "round"],
+		["mitterLimit" , "1"],
+		["globalAlpha", 0.5]
+	],
+	"paths" : [
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [140.02, 307.37, 128.44, 302.74, 119.36, 293.47]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [110.27, 284.21, 105.74, 272.54, 105.74, 258.45]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [105.74, 244.37, 110.27, 232.80, 119.36, 223.72]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [128.44, 214.63, 140.02, 210.09, 154.11, 210.09]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [169.67, 210.09, 182.91, 204.62, 193.86, 193.69]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [204.78, 182.76, 210.25, 169.51, 210.25, 153.95]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [210.25, 138.38, 204.78, 125.23, 193.86, 114.47]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [182.91, 103.74, 169.67, 98.36, 154.11, 98.36]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [138.54, 98.36, 125.38, 103.74, 114.64, 114.47]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [103.88, 125.23, 98.51, 138.38, 98.51, 153.95]
+		},
+		{
+			"type" : "lineTo",
+			"coords" : [98.51, 371.86]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [98.51, 385.95, 93.88, 397.53, 84.62, 406.60]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [75.35, 415.68, 63.67, 420.21, 49.59, 420.21]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [35.88, 420.21, 24.39, 415.59, 15.14, 406.33]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [5.86, 397.07, 1.23, 385.58, 1.23, 371.86]
+		},
+
+		{
+			"type" : "lineTo",
+			"coords" : [1.23, 153.95]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [1.23, 110.59, 15.87, 74.28, 45.15, 44.99]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [74.42, 15.72, 110.74, 1.08, 154.11, 1.08]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [197.47, 1.08, 233.88, 15.72, 263.34, 44.99]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [292.80, 74.27, 307.53, 110.59, 307.53, 153.95]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [307.53, 197.30, 292.80, 233.72, 263.34, 263.18]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [233.88, 292.64, 197.46, 307.37, 154.11, 307.37]
+		}
+
+	]
+},
+"letterC" : {
+	"start" : [234.55, 22.32],
+	"options" : [
+		["fillStyle" , "#000"],
+		["strokeStyle" , "#fff"],
+		["lineWidth" , "0",],
+		["lineCap" , "butt"],
+		["lineJoin" , "round"],
+		["mitterLimit" , "1"],
+		["globalAlpha", 0.5]
+	],
+	"paths" : [
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [247.35, 30.01, 259.21, 39.77, 270.15, 52.17]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [279.46, 62.74, 283.87, 74.32, 282.91, 87.26]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [281.98, 100.21, 276.22, 111.32, 265.65, 120.64]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [255.09, 129.94, 243.40, 134.20, 230.58, 133.39]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [217.76, 132.57, 205.83, 127.91, 196.52, 117.35]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [190.51, 110.53, 184.13, 106.05, 176.70, 102.84]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [171.41, 100.55, 165.62, 98.95, 159.19, 98.54]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [143.77, 97.56, 129.82, 101.02, 118.15, 111.32]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [106.46, 121.61, 99.53, 134.47, 98.69, 149.78]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [97.86, 165.09, 103.26, 178.51, 113.55, 190.19]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [123.85, 201.87, 136.99, 209.06, 152.15, 210.01]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [157.64, 210.37, 162.78, 209.63, 167.80, 208.56]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [174.01, 207.23, 179.87, 204.47, 185.32, 200.74]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [187.67, 199.12, 190.17, 197.35, 192.21, 195.21]
+		},
+		{
+			"type" : "lineTo",
+			"coords" : [194.33, 193.13]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [204.90, 183.81, 216.64, 179.62, 229.58, 180.57]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [242.52, 181.52, 253.65, 187.28, 262.95, 197.85]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [272.02, 208.13, 276.14, 219.81, 275.31, 232.87]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [274.50, 245.96, 270.45, 257.30, 260.16, 266.37]
+		},
+		{
+			"type" : "lineTo",
+			"coords" : [257.18, 269.10]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [224.64, 297.77, 186.88, 309.81, 145.56, 307.21]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [104.24, 304.60, 69.24, 287.04, 40.56, 254.50]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [11.90, 221.97, -1.19, 184.97, 1.30, 143.51]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [3.80, 102.06, 20.55, 66.37, 53.08, 37.69]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [74.79, 18.57, 99.20, 7.83, 125.24, 3.43]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [138.22, 1.25, 151.46, 0.48, 165.29, 1.35]
+		},
+		{
+			"type" : "bezierCurveTo",
+			"coords" : [191.01, 2.97, 213.78, 9.83, 234.55, 22.32]
+		}
+
+	]
+}
+}
